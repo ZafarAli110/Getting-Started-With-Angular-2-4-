@@ -1,0 +1,29 @@
+[
+    {
+        "productId": 1,
+        "productName": "Garden Cart",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2017",
+        "price": 23.99,
+        "starRating": 4.23,
+        "imageUrl": "assets/images/garden-cart.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Hammer",
+        "productCode": "TXD-0023",
+        "releaseDate": "April 18, 2017",
+        "price": 33.99,
+        "starRating": 4.82,
+        "imageUrl": "assets/images/hammer.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Saw",
+        "productCode": "TBX-0022",
+        "releaseDate": "May 15, 2016",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    }
+]
